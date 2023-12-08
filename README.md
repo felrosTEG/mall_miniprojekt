@@ -5,10 +5,15 @@ Ni ska nu få göra ett miniprojekt, för att testa att använda era kunskaper h
 **OBS!** Tänk på att det kan hända att ni löser problemet på annat sätt än jag, men det betyder inte att ni har gjort fel.
 
 
+## Programinstruktioner
 Ni ska skriva ett program som uppfyller följande:
+
 En coach inleder alltid en träning med att laget ställer upp sig i bokstavsordning efter förnamn. Ibland menar hon att ordningen ska vara från a-ö, ibland vill hon att ordningen är tvärtom. Spelarna vet dock aldrig vilket håll coachen har tänkt den här gången, så de får gissa. Om de gissar fel inleds träningen med löpning, annars inte. Du ska nu skriva ett program som tar in antalet spelare i ett lag, följt av deras namn så som de har ställt upp sig. Programmet ska kunna avgöra om de är uppställda i stigande alfabetisk ordning (a-ö), fallande alfabetisk ordning (ö-a) eller inget av dem. Första raden input ska vara antalet spelare, följt av en rad för varje namn. Inga dubletter av namn förekommer. Programmet ska gå att köra flera gånger i rad om användaren önskar.
 
-Exempel input och output
+**Exempel**
+
+| INPUT | OUTPUT | | ----------- | ----------- | | 3 | Stigande | | 5 | Fallande |
+ input och output
 
 INPUT
 OUTPUT
