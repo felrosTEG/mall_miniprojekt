@@ -12,7 +12,10 @@ En coach inleder alltid en träning med att laget ställer upp sig i bokstavsord
 
 **Exempel**
 
-| INPUT | OUTPUT | | ----------- | ----------- | | 3 | Stigande | | 5 | Fallande |
+| Input       | Output |
+| ----------- | ----------- |
+| 3           | Stigande    |
+| 5           | Fallande    |
  input och output
 
 INPUT
