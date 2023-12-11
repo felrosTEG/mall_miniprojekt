@@ -14,7 +14,8 @@ En coach inleder alltid en träning med att laget ställer upp sig i bokstavsord
 
 | Input       | Output |
 | ----------- | ----------- |
-| 3\nAdam| Stigande    |
+| 3Adam| Stigande    |
+| Adam | Stigande |
 | 5           | Fallande    |
  input och output
 
