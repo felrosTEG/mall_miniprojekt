@@ -14,55 +14,40 @@ En coach inleder alltid en träning med att laget ställer upp sig i bokstavsord
 
 | Input       | Output |
 | ----------- | ----------- |
-| 3Adam| Stigande    |
-| Adam | Stigande |
-| 5           | Fallande    |
+| 3<br>Adam<br>Bosse<br>William| Stigande    |
+| 5<br>Viola<br>Sofia<br>Julia<br>Hanna<br>Anastasia | Fallande |
+| 4<br>Lovisa<br>Alva<br>Camilla<br>Fanny   | Varken stigande eller fallande  |
  input och output
 
-INPUT
-OUTPUT
-3
-Adam
-Bosse
-William
-Stigande
-5
-Sofia
-Julia
-Hanna
-Anastasia
-Fallande
-4
-Lovisa
-Alva
-Camilla
-Varken stigande eller fallande
+## Arbetsordning
 
-
-
-Arbetsordning
 Arbetet med projektet måste följa en viss ordning, för att ni ska få öva på alla delar i kursen. Ordningen är följande
 
-Specifikationer
+**1. Specifikationer**
+
 Skriv en lista på specifikationer, eller krav på vad programmet ska kunna göra när det är klart, utifrån instruktionen ovan. Lämna in dina specifikationer här.
 Filmlänk
 
-Pseudokod
+**2. Pseudokod**
+
 Rita upp ett diagram över hur ni har tänkt att programmet ska fungera. Använd dessa symboler. Lämna in en bild på ditt diagram här.
 Filmlänk
 
-Milstolpar
+**3. Milstolpar**
+
 Skriv upp en liten lista på milstolpar för programmet. Det vill säga små program som går att köra och testa, trots att inte hela programmet är färdigt. Om vi programmerade “finns i sjön” hade det till exempel kunnat vara saker som: “båda spelarna får en hand med kort”, “kan fråga om kort och ta ur sjön”, “kan vinna”, “spelet är användarvänligt”. Lämna in dina milstolpar här.
 Filmlänk
 
-Programmera och testa
-Börja programmera på din första milstolpe. Testa att programmet fungerar innan du går vidare till nästa. Fortsätt sedan så tills du har ett färdigt program som du är nöjd med. Kom ihåg att noggrant kommentera din kod!
-Milstolpe 1 film
-Milstolpe 2 film
-Milstolpe 3 film
-Milstolpe 4 film
+**4. Programmera och testa**
 
-Utvärdera
+Börja programmera på din första milstolpe. Testa att programmet fungerar innan du går vidare till nästa. Fortsätt sedan så tills du har ett färdigt program som du är nöjd med. Kom ihåg att noggrant kommentera din kod!
+* Milstolpe 1 film
+* Milstolpe 2 film
+* Milstolpe 3 film
+* Milstolpe 4 film
+
+**5. Utvärdera**
+
 Vad kändes bra? Var något extra svårt? Har du någon fråga till mig (Felicia)? Vad hade du lagt till för funktion i programmet om du fortsatte att utveckla det? Lämna in din utvärdering här.
 
 
