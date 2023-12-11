@@ -17,7 +17,6 @@ En coach inleder alltid en träning med att laget ställer upp sig i bokstavsord
 | 3<br>Adam<br>Bosse<br>William| Stigande    |
 | 5<br>Viola<br>Sofia<br>Julia<br>Hanna<br>Anastasia | Fallande |
 | 4<br>Lovisa<br>Alva<br>Camilla<br>Fanny   | Varken stigande eller fallande  |
- input och output
 
 ## Arbetsordning
 
