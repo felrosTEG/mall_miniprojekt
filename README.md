@@ -26,25 +26,28 @@ Arbetet med projektet måste följa en viss ordning, för att ni ska få öva p�
 **1. Specifikationer**
 
 Skriv en lista på specifikationer, eller krav på vad programmet ska kunna göra när det är klart, utifrån instruktionen ovan. Lämna in dina specifikationer här.
-Filmlänk
+
+[Filmlänk](https://drive.google.com/file/d/1-FEc23hq0HJPOB3YnPSev4f6efkF0xfd/view?usp=sharing)
 
 **2. Pseudokod**
 
 Rita upp ett diagram över hur ni har tänkt att programmet ska fungera. Använd dessa symboler. Lämna in en bild på ditt diagram här.
-Filmlänk
+
+[Filmlänk](https://drive.google.com/file/d/1bQqK5dgRa3lCvIS9zeXx6pZmBMqk49XS/view?usp=sharing)
 
 **3. Milstolpar**
 
 Skriv upp en liten lista på milstolpar för programmet. Det vill säga små program som går att köra och testa, trots att inte hela programmet är färdigt. Om vi programmerade “finns i sjön” hade det till exempel kunnat vara saker som: “båda spelarna får en hand med kort”, “kan fråga om kort och ta ur sjön”, “kan vinna”, “spelet är användarvänligt”. Lämna in dina milstolpar här.
-Filmlänk
+
+[Filmlänk](https://drive.google.com/file/d/1bJSeGsxQxq6953MT_PqDlc17AYZMc2pC/view?usp=sharing)
 
 **4. Programmera och testa**
 
 Börja programmera på din första milstolpe. Testa att programmet fungerar innan du går vidare till nästa. Fortsätt sedan så tills du har ett färdigt program som du är nöjd med. Kom ihåg att noggrant kommentera din kod!
-* Milstolpe 1 film
-* Milstolpe 2 film
-* Milstolpe 3 film
-* Milstolpe 4 film
+* [Milstolpe 1 film](https://drive.google.com/file/d/1zTTUm6iMT-CFpUdzw4huTilN9l_n6i_A/view?usp=sharing)
+* [Milstolpe 2 film](https://drive.google.com/file/d/1yUF36zR3rzOocGumc8WWGAqQwTib-w4n/view?usp=sharing)
+* [Milstolpe 3 film](https://drive.google.com/file/d/1wPUdHCbGMUAdASIZeTPb8pyUrb1YqpIs/view?usp=sharing)
+* [Milstolpe 4 film](https://drive.google.com/file/d/1K9AVSS7laYZ18kckaXnU-QBEx0TdvN7W/view?usp=sharing)
 
 **5. Utvärdera**
 
